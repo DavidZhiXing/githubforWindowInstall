@@ -1,0 +1,7 @@
+1、浏览器选择
+下载时在chrome及FF中输入此地址会将GitHub.application当成一个文件下载下来，
+只有通过IE直接打开地址真正的安装程序才会开始下载并安装。
+2、安装
+安装时提示.net framework 版本低需要 .net framework4.5，然后下载安装.net framework4.5
+打开IE在地址栏中输入http://github-windows.s3.amazonaws.com/GitHub.application回车即可,
+在chrome及FF中输入此地址会将GitHub.application当成一个文件下载下来若单独执行此程序还是会报上面的错，
