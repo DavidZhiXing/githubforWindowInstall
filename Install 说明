@@ -1,12 +1,14 @@
 1、浏览器选择
-下载时在chrome及FF中输入此地址会将GitHub.application当成一个文件下载下来，
-只有通过IE直接打开地址真正的安装程序才会开始下载并安装。
+下载时在chrome及FF中输入此地址会将GitHub.application当成一个文件下载下来，只有通过IE直接打开地址真正的安装程序才会开始下载并安装。
 2、浏览器设置
 在ie中安装时，需要设置一下。打开设置→ Internet 选项→“安全”选项卡；选择“受信任的站点”→点击“站点”按钮；
 弹出的窗口中的文本框中输入点击“添加” https://github-windows.s3.amazonaws.com/ 
 ；或者去除复选框“对该区域中的所有站点要求服务器验证(https:)”的钩，直接加入 github-windows.s3.amazonaws.com 。
 然后在IE在地址栏中输入http://github-windows.s3.amazonaws.com/GitHub.application回车即可,
 3、安装
-安装时提示.net framework 版本低需要 .net framework4.5，然后下载安装.net framework4.5
+安装时提示.net framework 版本低需要 .net framework4.5，然后下载安装.net framework4.5，安装完成后重启电脑再去安装github for window
+4、然后安装并没有成功，总是下载安装了一部分就出错了，重试无果。之后，看见一个方法，在IE 中http加s（https）https://windows.gitHub.com,
+然后下载安装，安装出错，在安装就没问题了。
 
-安装完成后重启电脑再去安装github for window
+
+
