@@ -10,3 +10,5 @@
 安装时提示.net framework 版本低需要 .net framework4.5，然后下载安装.net framework4.5
 
 安装完成后重启电脑再去安装github for window
+ 然后测试发现，在IE 中将http改为https ，https://windows.github.com ,在下载安装，安装出错重新安装后就OK了。
+ 不只是之前的准备工作，还是后面的https缘故，总之安装成功了。
